@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# other files
+*.txt
+.python-version
+*.avi
+*.mp4
+*.mkv
+*.log
